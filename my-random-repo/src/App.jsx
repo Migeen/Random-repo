@@ -1,12 +1,9 @@
 import Container from "./components/Container"
-import Nav from "./components/Nav"
-
 
 function App() {
 
   return (
-    <div className="flex flex-col bg-secondaryBlack  w-full h-screen">
-      <Nav />
+    <div className="flex justify-center items-center bg-grad  w-full h-screen">
       <Container />
     </div>
   )

@@ -14,10 +14,10 @@ export default {
       boxShadow:{
         shadow: ' inset 0 -1px 0 var(--borderColor-muted)',
       },
-      border:{
-        Bottom: '1px solid #fafbfc'
+      backgroundImage:{
+        grad: 'linear-gradient(to top, #30cfd0 0%, #330867 100%)'
       }
-    },
+    }
   },
   plugins: [],
 }
