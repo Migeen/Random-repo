@@ -1,9 +1,13 @@
+import Container from "./components/Container"
+import Nav from "./components/Nav"
+
 
 function App() {
 
   return (
-    <div>
-      <h1>github random repo</h1>
+    <div className="flex flex-col bg-secondaryBlack  w-full h-screen">
+      <Nav />
+      <Container />
     </div>
   )
 }
