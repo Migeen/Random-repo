@@ -25,5 +25,58 @@
     },
     {
         "Language": "GO"
+    },{
+        "Language": "C#"
+    },
+    {
+        "Language": "R"
+    },
+    {
+        "Language": "Vala"
+    },
+    {
+        "Language": "Kotlin"
+    },
+    {
+        "Language": "Swift"
+    },
+    {
+        "Language": "Rust"
+    },
+    {
+        "Language": "Dart"
+    },
+    {
+        "Language": "Perl"
+    },
+    {
+        "Language": "Julia"
+    },{
+        "Language": "Nim"
+    },
+    {
+        "Language": "ASP.NET"
+    },
+    {
+        "Language": "Svelte"
+    },
+    {
+        "Language": "Flutter"
+    },
+    {
+        "Language": "React Native"
+    },
+    {
+        "Language": "MATLAB"
+    },
+    {
+        "Language": "Scala"
+    },
+    {
+        "Language": "Lisp"
+    },
+    {
+        "Language": "GraphQL"
     }
+
 ]
