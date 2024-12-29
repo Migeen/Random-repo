@@ -25,7 +25,8 @@
     },
     {
         "Language": "GO"
-    },{
+    },
+    {
         "Language": "C#"
     },
     {
@@ -51,7 +52,8 @@
     },
     {
         "Language": "Julia"
-    },{
+    },
+    {
         "Language": "Nim"
     },
     {
@@ -78,5 +80,4 @@
     {
         "Language": "GraphQL"
     }
-
 ]
