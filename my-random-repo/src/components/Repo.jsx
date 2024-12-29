@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from 'react';
 
-const Repo = ({ language }) => {
+const Repo = ({ language,refreshTrigger }) => {
     const [repo, setRepo] = useState(null);
     const [loading, setLoading] = useState(false);
     const [error, setError] = useState('');
@@ -37,7 +37,7 @@ const Repo = ({ language }) => {
         };
 
         fetchRandomRepo();
-    }, [language]);
+    }, [language, refreshTrigger]);
 
     return (
         <div className='w-5/6 h-3/5 rounded-lg flex overflow-y-scroll max-h-3/5 p-4  bg-sky-300 justify-center items-center'>
