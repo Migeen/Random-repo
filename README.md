@@ -36,3 +36,5 @@ export default {
 5 npm install react-icons --save
 
 6 Command to start project : npm run dev
+
+projectURL - https://roadmap.sh/projects/github-random-repo
