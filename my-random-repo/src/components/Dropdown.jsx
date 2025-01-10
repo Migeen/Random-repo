@@ -13,7 +13,7 @@ const Dropdown = ({ selectedLanguage, setLanguage }) => {
             border-transparent active:border-white duration-300 active:text-white'>
                 {selectedLanguage}
                 {!isOpen ? (
-                    <AiOutlineCaretDown className='h-8' />
+                    <AiOutlineCaretDown className='h-8'/>
                 ) : (
                     <AiOutlineCaretUp className='h-8' />
                 )}
